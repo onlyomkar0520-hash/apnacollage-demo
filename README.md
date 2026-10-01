@@ -2,5 +2,5 @@
 This is my first repository.
 <br>
 <br>
-auther-omkar patil(bca 1st)
+auther-omkar patil(bca 2st)
 
